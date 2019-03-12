@@ -6,7 +6,7 @@ with servlets API , JSTL and JSP files.
 
 The enterprise manager can :
 - Add a new enterprise
-- Edit the enterprise infos
+- Edit enterprise's infos
 - Delete enterprise already added 
 - View enterprise infos
 
