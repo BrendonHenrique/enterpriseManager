@@ -10,6 +10,7 @@ The enterprise manager can :
 - Edit enterprise's infos
 - Delete enterprise already added 
 - View enterprise infos
+- Export the enterprises infos to xml and json patterns
 
 The implemented resources can 
 - Monitor every request expended time
